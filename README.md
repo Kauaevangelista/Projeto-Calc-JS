@@ -1,4 +1,4 @@
-# Desafio Rocketform, Desafio Proposto Pela Onebitcode
+# Desafio CalcJS, Desafio Proposto Pela Onebitcode
 
 ![preview](./.github/Preview.png)
 
@@ -12,6 +12,8 @@ Projeto construido por mim
 
 - HTML
 - CSS
+- Javascript
+- ES Modules
 - Git & Github
 
 ## Contato 📲
