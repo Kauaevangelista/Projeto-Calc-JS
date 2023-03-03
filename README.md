@@ -14,6 +14,9 @@ Projeto construido por mim
 - CSS
 - Javascript
 - ES Modules
+- Webpack
+- Babel
+- Loaders
 - Git & Github
 
 ## Contato 📲
