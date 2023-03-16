@@ -12,10 +12,13 @@ Projeto construido por mim
 
 - HTML
 - CSS
+- SASS
 - Javascript
+- Common Modules
 - ES Modules
 - Webpack
 - Babel
+- Minify
 - Loaders
 - Git & Github
 
