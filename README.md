@@ -6,7 +6,7 @@
 
 Projeto construido por mim
 
-[Clique aqui para acessar](https://kauaevangelista.github.io/Projeto-Calc-JS/)
+[Clique aqui para acessar](https://projeto-calc-js.netlify.app/)
 
 ## 🛠️Tecnologias
 
